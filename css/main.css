@@ -1,0 +1,28 @@
+Body{ 
+    background-color:lightgray;
+    margin:0;
+}
+
+/* targeting a class in css - every element with the class of header will recieve these css rules*/
+.header{
+    background-color: lightcyan;
+    text-decoration-style: solid;
+    overflow:hidden;
+ 
+}
+
+.headerLink{
+    padding: 14px 16px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20pt;
+
+}
+
+.header a:hover
+#homeLink{
+    float:left;
+}
+#aboutLink{
+    float: right;
+}

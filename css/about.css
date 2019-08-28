@@ -1,0 +1,22 @@
+.aboutHeader{
+    text-align: center;
+}
+
+.container{
+    margin: 20px;
+    display: inline-block;
+    border: 3px solid;
+    padding: 5px;
+}
+
+.leftImage{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.rightImage{
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
